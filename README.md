@@ -23,5 +23,5 @@ I mostly work with:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kishan-grewal/">🔗 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/kishan-grewal/mini_pupper_ros/tree/feat/tracking-v2">🚀 Recent Work</a>
+  <a href="https://github.com/kishan-grewal/mini_pupper_ros/tree/feat/tracking-v2/mini_pupper_tracking">🚀 Most Recent Work</a>
 </p>
