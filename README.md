@@ -8,15 +8,16 @@
 
 ---
 
-Hi! I'm Kishan, a second-year **MEng Robotics & AI** student at UCL. I’m passionate about building intelligent robotic systems and love working at the intersection of **software**, **control**, and **hardware** as robotics engineers do.
+Hi! I'm Kishan, a second-year **MEng Robotics & AI** student at UCL.
 
-At the moment, I’m focused on developing with **ROS 2**, working on both real robots and simulations. After my time at MangDang, I plan to explore **reinforcement learning for robotics** to deepen my understanding of autonomy and adaptive behaviour.
+At the moment, I’m focused on developing with **ROS 2**, working on both real robots and simulations.<br>
+After my time at MangDang, I plan to further explore **reinforcement learning for robotics**.
 
 I mostly work with:
 
 - 🧠 **Languages:** Python, C++
 - 🛠️ **Tools:** ROS 2, Gazebo, RViz, OpenCV
-- 🤖 **Interests:** Quadrupeds, embedded control, and AI-driven behaviour
+- 🤖 **Interests:** Quadrupeds, embedded control, AI-driven behaviour
 
 ---
 
