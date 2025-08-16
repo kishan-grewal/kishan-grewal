@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="mini_pupper_tracking_640_15.gif" alt="Mini Pupper Tracking Demo" width="640"/>
+  <img src="mini_pupper_tracking_640_15.gif" alt="Mini Pupper Tracking Demo" width="480"/>
 </p>
 
 <h4 align="center">
