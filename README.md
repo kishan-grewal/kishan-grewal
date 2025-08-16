@@ -1,9 +1,13 @@
 <h1 align="center">Kishan Grewal</h1>
 
 <h3 align="center">
-  Robotics & AI @ UCL (2nd Year)<br>
+  Robotics & AI @ UCL (Year 2)<br>
   Arduino · C · ROS 2 · C++ · Python<br>
 </h3>
+
+<p align="center">
+  <img src="mini_pupper_tracking_640_15.gif" alt="Mini Pupper Tracking Demo" width="640"/>
+</p>
 
 <h4 align="center">
   Mini Pupper ROS 2 Package – Official contribution → 
