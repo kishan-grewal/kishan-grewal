@@ -13,7 +13,7 @@
 
 ### <p align="center">Mini Pupper (ROS 2 Tracking)</p>
 <p align="center">
-  <img src="mini_pupper.png" alt="Mini Pupper" width="480"/>
+  <img src="mini_pupper.jpg" alt="Mini Pupper" width="480"/>
 </p>
 <p align="center">
   Official ROS 2 tracking package contribution for Mini Pupper's Stanford Controller.<br/>
