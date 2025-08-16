@@ -38,6 +38,6 @@
   <img src="dual_board.jpg" alt="Dual Arduino Board" width="480"/>
 </p>
 <p align="center">
-  Two-board system with 3D-printed controller (IMU + TFT) and<br/>WiFi UDP link to rover body with encoders + tilt detection.<br/>
+  Two-board system with 3D-printed controller (IMU + TFT) and WiFi UDP link to rover body with encoders + tilt detection.<br/>
   <i>(Repo coming soon)</i>
 </p>
