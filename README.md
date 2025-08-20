@@ -31,7 +31,7 @@
 ## <p align="center">Hardware Integration</p>
 
 <p align="center">
-  <b>Rover Controller (Arduino GIGA R1)</b> – Autonomous rover with dual-mode PID (line & wall following), IR/optical sensor fusion.<br/>
+  <b>Rover Controller</b> – Autonomous rover with dual-mode PID (line & wall following), IR/optical sensor fusion.<br/>
   <a href="https://github.com/kishan-grewal/rover-controller">Code →</a>
 </p>
 
