@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <b>Mini Pupper Fleet (coming soon)</b> – Distributed multi-robot coordination using namespaced ROS 2 nodes, EKF-based attitude estimation, and SE(3)-aware control.
+  <b>Mini Pupper Fleet (coming soon)</b> – Distributed multi-robot coordination with ROS 2 namespaces, EKF-based estimation, and SE(3)-aware control.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 ## <p align="center">Hardware Integration</p>
 
 <p align="center">
-  <b>Rover Controller</b> – Autonomous rover with dual-mode PID (line & wall following), IR/optical sensor fusion.<br/>
+  <b>Rover Controller</b> – Autonomous rover with dual-mode PID (line & wall following), IR/optical sensor fusion, and embedded C++ on Arduino GIGA.<br/>
   <a href="https://github.com/kishan-grewal/rover-controller">Code →</a>
 </p>
 
