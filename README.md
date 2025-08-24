@@ -2,7 +2,7 @@
 
 <h3 align="center">
   Robotics Engineering @ UCL<br>
-  ROS 2 · C++ · Python · Real-Time Control & Perception
+  C++ · Python · Real-Time Control & Perception
 </h3>
 
 <p align="center">
