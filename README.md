@@ -11,7 +11,7 @@
 
 ---
 
-## <p align="center">ROS 2 Systems</p>
+### <p align="center">Experience</p>
 
 <p align="center">
   <b>Mini Pupper Tracking</b> – Vision-control pipeline in ROS 2: YOLO-based person detection, IMU feedback, and PID control for smooth real-time following.<br/>
@@ -19,7 +19,8 @@
 </p>
 
 <p align="center">
-  <b>Mini Pupper Fleet (coming soon)</b> – Multi-robot coordination framework with ROS 2 namespaces, EKF attitude estimation, and SE(3)-aware distributed control.
+  <b>Mini Pupper Fleet</b> – Multi-robot coordination framework with ROS 2 namespaces, EKF attitude estimation, and SE(3)-aware distributed control.<br/>
+  <a href="https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_fleet">Code →</a>
 </p>
 
 <p align="center">
@@ -28,7 +29,7 @@
 
 ---
 
-## <p align="center">Hardware Integration</p>
+### <p align="center">Embedded Projects</p>
 
 <p align="center">
   <b>Rover Controller</b> – Autonomous rover with dual-mode PID (line & wall following), IR/optical sensor fusion, and embedded C++ on Arduino GIGA.<br/>
