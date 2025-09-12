@@ -14,7 +14,7 @@
 ### <p align="center">Experience and Projects</p>
 
 <p align="center">
-  <b>Mini Pupper ROS</b> - brought up SLAM and NAV2 stack, YOLO11 person tracking on quadruped robot, and multi-robot fleet teleop<br/>
+  <b>Mini Pupper ROS</b> - implemented SLAM and Nav2 stack, YOLO11 person tracking, and multi-robot fleet teleop on quadruped robot<br/>
   <a href="https://github.com/mangdangroboticsclub/mini_pupper_ros">Code</a>
 </p>
 
