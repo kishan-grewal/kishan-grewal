@@ -11,31 +11,22 @@
 
 ---
 
-### <p align="center">Experience</p>
+### <p align="center">Experience and Projects</p>
 
 <p align="center">
-  <b>Mini Pupper Tracking</b> – Vision-control pipeline in ROS 2: YOLO-based person detection, IMU feedback, and PID control for smooth real-time following.<br/>
-  <a href="https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_tracking">Code →</a>
+  <b>Mini Pupper ROS</b> - brought up SLAM and NAV2 stack, YOLO11 person tracking on quadruped robot, and multi-robot fleet teleop<br/>
+  <a href="https://github.com/mangdangroboticsclub/mini_pupper_ros">Code</a>
 </p>
 
 <p align="center">
-  <b>Mini Pupper Fleet</b> – Multi-robot coordination framework with ROS 2 namespaces, EKF attitude estimation, and SE(3)-aware distributed control.<br/>
-  <a href="https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_fleet">Code →</a>
+  <img src="mini_pupper.jpg" alt="Mini Pupper" width="240"/>
 </p>
 
 <p align="center">
-  <img src="mini_pupper.jpg" alt="Mini Pupper" width="480"/>
-</p>
-
----
-
-### <p align="center">Embedded Projects</p>
-
-<p align="center">
-  <b>Rover Controller</b> – Autonomous rover with dual-mode PID (line & wall following), IR/optical sensor fusion, and embedded C++ on Arduino GIGA.<br/>
-  <a href="https://github.com/kishan-grewal/rover-controller">Code →</a>
+  <b>Rover Controller</b> - Autonomous rover with dual-mode PID (line & wall following), IR/optical sensor fusion, and embedded C++ on Arduino GIGA<br/>
+  <a href="https://github.com/kishan-grewal/rover-controller">Code</a>
 </p>
 
 <p align="center">
-  <img src="tank_side_cropped.jpg" alt="Tank Rover" width="280"/>
+  <img src="tank_side_cropped.jpg" alt="Tank Rover" width="240"/>
 </p>
