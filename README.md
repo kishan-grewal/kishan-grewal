@@ -1,32 +1,32 @@
-<h1 align="center">Kishan Grewal</h1>
+# Kishan Grewal  
 
-<h3 align="center">
-  Robotics Engineering @ UCL<br>
-  C++ · Python · Real-Time Control & Perception
-</h3>
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?logo=ros&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-grewal)
 
-<p align="center">
-  <img src="mini_pupper_tracking_640_15.gif" alt="Mini Pupper Tracking Demo" width="640"/>
-</p>
+![Mini Pupper tracking demo](mini_pupper_tracking_640_15.gif)
 
----
+I work on robotics software.
 
-### <p align="center">Experience and Projects</p>
+![Repos](https://github-contributor-stats.vercel.app/api?username=kishan-grewal&limit=2&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<p align="center">
-  <b>Mini Pupper ROS</b> - implemented SLAM and Nav2 stack, YOLO11 person tracking, and multi-robot fleet teleop on quadruped robot<br/>
-  <a href="https://github.com/mangdangroboticsclub/mini_pupper_ros">Code</a>
-</p>
+## mini-pupper-ros
 
-<p align="center">
-  <img src="mini_pupper.jpg" alt="Mini Pupper" width="240"/>
-</p>
+- [**autonomous navigation**](https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_navigation) - Nav2, SLAM Toolbox (ROS2)
+- [**person tracker**](https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_tracking) - Python (ROS2)
+- [**multi-robot teleoperation**](https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_fleet) - C++ (ROS2)
 
-<p align="center">
-  <b>Rover Controller</b> - Autonomous rover with dual-mode PID (line & wall following), IR/optical sensor fusion, and embedded C++ on Arduino GIGA<br/>
-  <a href="https://github.com/kishan-grewal/rover-controller">Code</a>
-</p>
+## rover-controller
 
-<p align="center">
-  <img src="tank_side_cropped.jpg" alt="Tank Rover" width="240"/>
-</p>
+- [**line and wall-following rover**](https://github.com/kishan-grewal/rover-controller) - C++ (Arduino)
+
+
+
+
+
+
+
+
+
+
