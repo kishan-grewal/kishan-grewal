@@ -14,8 +14,11 @@
 ## mini-pupper-ros
 
 - [**autonomous navigation**](https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_navigation) - Nav2, SLAM Toolbox (ROS2)
+🎥 [youtube demo](https://youtu.be/4jJ_QinYjgU)
 - [**person tracker**](https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_tracking) - Python (ROS2)
+🎥 [youtube demo](https://youtu.be/_WW_2NER2gI)
 - [**multi-robot teleoperation**](https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_fleet) - C++ (ROS2)
+🎥 [youtube demo](https://youtu.be/Q4m8wsLZWkY)
 
 ## rover-controller
 
