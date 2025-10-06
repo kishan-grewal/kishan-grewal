@@ -7,7 +7,7 @@
 
 ![navigation demo here](mini_pupper_navigation_480_12.gif)
 
-## I work on robotics software.
+## I build robotics software.
 
 ![Repos](https://github-contributor-stats.vercel.app/api?username=kishan-grewal&limit=2&theme=tokyonight&combine_all_yearly_contributions=true)
 
