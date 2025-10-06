@@ -5,7 +5,7 @@
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?logo=ros&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-grewal)
 
-![Mini Pupper tracking demo](mini_pupper_tracking_640_15.gif)
+![navigation demo here](mini_pupper_navigation_480_12.gif)
 
 ## I work on robotics software.
 
