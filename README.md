@@ -7,10 +7,6 @@
 
 ![navigation demo here](mini_pupper_navigation_480_12.gif)
 
-## I build robotics software.
-
-![Repos](https://github-contributor-stats.vercel.app/api?username=kishan-grewal&limit=2&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ## mini-pupper-ros
 
 - [**autonomous navigation**](https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_navigation) - Nav2, SLAM Toolbox (ROS2)
@@ -23,6 +19,9 @@
 ## rover-controller
 
 - [**line and wall-following rover**](https://github.com/kishan-grewal/rover-controller) - C++ (Arduino)
+
+##
+![Repos](https://github-contributor-stats.vercel.app/api?username=kishan-grewal&limit=2&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 
