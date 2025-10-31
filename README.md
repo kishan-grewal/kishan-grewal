@@ -9,16 +9,16 @@
 
 ## mini quadruped robot (mini-pupper-ros)
 
-- [**autonomous navigation**](https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_navigation) - Nav2, SLAM Toolbox (ROS2)
-🎥 [youtube demo](https://youtu.be/4jJ_QinYjgU)
-- [**person tracker**](https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_tracking) - Python (ROS2)
-🎥 [youtube demo](https://youtu.be/_WW_2NER2gI)
-- [**multi-robot teleoperation**](https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_fleet) - C++ (ROS2)
-🎥 [youtube demo](https://youtu.be/Q4m8wsLZWkY)
+- **autonomous navigation** - Nav2, SLAM Toolbox (ROS2)
+🎥 [youtube demo](https://youtu.be/4jJ_QinYjgU) • [code](https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_navigation)
+- **vision-based person tracker** - Python (ROS2)
+🎥 [youtube demo](https://youtu.be/_WW_2NER2gI) • [code](https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_tracking)
+- **multi-robot teleoperation** - C++ (ROS2)
+🎥 [youtube demo](https://youtu.be/Q4m8wsLZWkY) • [code](https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_fleet)
 
 ## autonomous tracked rover (rover-controller)
 
-- [**autonomous line and wall-following framework**](https://github.com/kishan-grewal/rover-controller) - C++ (Arduino)
+- **autonomous line and wall-following framework** - C++ (Arduino) • [code](https://github.com/kishan-grewal/rover-controller)
 
 ##
 ![Repos](https://github-contributor-stats.vercel.app/api?username=kishan-grewal&limit=2&theme=tokyonight&combine_all_yearly_contributions=true)
