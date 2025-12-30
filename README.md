@@ -20,9 +20,6 @@
 
 - **autonomous line and wall-following framework** - C++ (Arduino) • [code](https://github.com/kishan-grewal/rover-controller)
 
-##
-![Repos](https://github-contributor-stats.vercel.app/api?username=kishan-grewal&limit=2&theme=tokyonight&combine_all_yearly_contributions=true)
-
 
 
 
