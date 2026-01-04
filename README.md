@@ -19,6 +19,9 @@
 ## reinforcement learning (gym-rl-algos)
 - **DQN, PPO, SAC, MBPO** implementations for Gymnasium - Python • [code](https://github.com/kishan-grewal/gym-rl-algos)
 
+## multithreaded robot simulation (cpp-2d-robot-sim)
+- **concurrent worker architecture** - C++17, std::thread, mutex synchronisation • [code](https://github.com/kishan-grewal/cpp-2d-robot-sim)
+
 ## autonomous tracked rover (rover-controller)
 
 - **autonomous line and wall-following framework** - C++ (Arduino) • [code](https://github.com/kishan-grewal/rover-controller)
