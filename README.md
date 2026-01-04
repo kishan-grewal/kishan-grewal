@@ -16,6 +16,9 @@
 - **multi-robot teleoperation** - C++ (ROS2)
 🎥 [youtube demo](https://youtu.be/Q4m8wsLZWkY) • [code](https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_fleet)
 
+## reinforcement learning (gym-rl-algos)
+- **DQN, PPO, SAC, MBPO** implementations for Gymnasium - Python • [code](https://github.com/kishan-grewal/gym-rl-algos)
+
 ## autonomous tracked rover (rover-controller)
 
 - **autonomous line and wall-following framework** - C++ (Arduino) • [code](https://github.com/kishan-grewal/rover-controller)
