@@ -17,13 +17,14 @@ Interested in robot autonomy, state estimation, and reinforcement learning for c
 [![Demo](https://img.shields.io/badge/▶%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/_WW_2NER2gI)
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_tracking)
 
-**Multi-Robot EKF pose estimation for N robots** · `C++ · ROS 2`  
-[![Demo](https://img.shields.io/badge/▶%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Q4m8wsLZWkY)
-[![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_fleet)
-
 **Autonomous navigation with SLAM Toolbox and Nav2** · `Nav2 · SLAM Toolbox · ROS 2`  
 [![Demo](https://img.shields.io/badge/▶%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/4jJ_QinYjgU)
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_navigation)
+
+**Multi-robot fleet control with EKF to correct quadruped gait drift** · `C++ · ROS 2`  
+[![Demo](https://img.shields.io/badge/▶%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Q4m8wsLZWkY)
+[![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_fleet)
+
 
 ## Inverted Pendulum Balancing Robot · inverted-pendulum-cart
 **Custom-built cart, full-state LQR + Kalman filter** · `C++ · Arduino Giga R1`  
