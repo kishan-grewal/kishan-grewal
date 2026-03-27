@@ -7,11 +7,13 @@
 
 Second year robotics student at UCL.
 
-Interested in robot autonomy, state estimation, and reinforcement learning for control.
-
-![navigation demo](mini_pupper_navigation_480_12.gif)
+Interested in robot autonomy, SLAM and reinforcement learning for control.
 
 ## Mini Quadruped Robot · mini-pupper-ros
+
+<p align="left">
+  <img src="media/mini_pupper_navigation_480_12.gif" alt="Mini Pupper Navigation Demo" width="400"/>
+</p>
 
 **Person-tracking robot dog with YOLO11n detection and IMU control** · `Python · ROS 2`  
 [![Demo](https://img.shields.io/badge/▶%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/_WW_2NER2gI)
@@ -25,12 +27,22 @@ Interested in robot autonomy, state estimation, and reinforcement learning for c
 [![Demo](https://img.shields.io/badge/▶%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Q4m8wsLZWkY)
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros2-dev/mini_pupper_fleet)
 
-
 ## Inverted Pendulum Balancing Robot · inverted-pendulum-cart
+
+<p align="left">
+  <img src="media/disturbance-640p.gif" alt="Inverted Pendulum Disturbance Demo" width="350"/>
+</p>
+
 **Custom-built cart, full-state LQR + Kalman filter** · `C++ · Arduino Giga R1`  
+[![Demo](https://img.shields.io/badge/▶%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan-grewal/inverted-pendulum-cart)
 
 ## Autonomous Tracked Rover · rover-controller
+
+<p align="left">
+  <img src="media/tank_side_cropped.jpg" alt="Obsidian Rover Side Profile" width="300"/>
+</p>
+
 **Custom-built tracked rover, autonomous line and wall following** · `C++ · Arduino`  
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan-grewal/rover-controller)
 
