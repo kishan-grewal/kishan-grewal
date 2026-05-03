@@ -37,15 +37,10 @@ Interested in robot autonomy, SLAM and reinforcement learning for control.
 [![Demo](https://img.shields.io/badge/▶%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan-grewal/inverted-pendulum-cart)
 
-## Autonomous Tracked Rover · rover-controller
+## Reinforcement Learning · alphazero-gomoku-9x9 · gym-rl-algos
 
-<p align="left">
-  <img src="media/tank_side_cropped.jpg" alt="Obsidian Rover Side Profile" width="300"/>
-</p>
+**AlphaZero Gomoku** · `Python · PyTorch`  
+[![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan-grewal/alphazero-gomoku-9x9)
 
-**Custom-built tracked rover, autonomous line and wall following** · `C++ · Arduino`  
-[![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan-grewal/rover-controller)
-
-## RL Algorithms with PyTorch · gym-rl-algos
 **PPO, SAC, MBPO on MuJoCo and Gymnasium** · `Python · PyTorch`  
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan-grewal/gym-rl-algos)
