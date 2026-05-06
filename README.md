@@ -40,15 +40,16 @@ Interested in robot autonomy, SLAM and reinforcement learning for control.
 ## Reinforcement Learning · alphazero-gomoku-9x9 · gym-rl-algos
 
 <p align="left">
+  <img src="media/sac_cheetah_10secs.gif" alt="SAC Cheetah Demo" width="350"/>
+</p>
+
+**Half-Cheetah RL with Gym in Mujoco (PPO, SAC, MBPO)** · `Python · PyTorch`  
+[![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan-grewal/deep-rl-locomotion)
+
+
+<p align="left">
   <img src="media/az800-vs-az800-x10.gif" alt="AlphaZero Gomoku Demo" width="300"/>
 </p>
 
 **AlphaZero Gomoku** · `Python · PyTorch`  
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan-grewal/alphazero-gomoku-9x9)
-
-<p align="left">
-  <img src="media/sac_cheetah_10secs.gif" alt="SAC Cheetah Demo" width="350"/>
-</p>
-
-**Half-Cheetah RL with Gym in Mujoco (PPO, SAC, MBPO)** · `Python · PyTorch`  
-[![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan-grewal/gym-rl-algos)
