@@ -37,7 +37,7 @@ Interested in robot autonomy, SLAM and reinforcement learning for control.
 [![Demo](https://img.shields.io/badge/▶%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan-grewal/inverted-pendulum-cart)
 
-## Reinforcement Learning · alphazero-gomoku-9x9 · gym-rl-algos
+## Reinforcement Learning · deep-rl-locomotion · alphazero-gomoku-9x9
 
 <p align="left">
   <img src="media/sac_cheetah_10secs.gif" alt="SAC Cheetah Demo" width="350"/>
