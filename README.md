@@ -21,7 +21,7 @@ Second year robotics student at UCL.
 ## Phone Video to Robot Policy · phone2libero
 
 <p align="left">
-  <img src="https://github.com/kishan-grewal/phone2libero/raw/main/assets/hero.gif" alt="Phone take of my hand retargeted onto the robot in LIBERO, then the trained policy" width="400"/>
+  <img src="https://github.com/kishan-grewal/phone2libero/raw/main/assets/hero.gif" alt="Phone take of my hand retargeted onto the robot in LIBERO, then the trained policy" width="800"/>
 </p>
 
 **SmolVLA trained from 50 phone videos of my hand, 62.2% to 96.1% on libero_spatial** · `Python · LeRobot`  
