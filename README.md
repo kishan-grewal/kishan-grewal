@@ -6,7 +6,7 @@
 [![LeRobot](https://img.shields.io/badge/LeRobot-E87B2C?logo=huggingface&logoColor=white)](https://github.com/huggingface/lerobot)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-grewal)
 
-Second year robotics student at UCL.
+Third year robotics and AI student at UCL.
 
 ## Franka Panda VLA Deployment · vla-teleop-franka-v2
 
